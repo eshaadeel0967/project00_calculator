@@ -18,7 +18,7 @@ Calculator is a simple command-line calculator program built in Typescript, Node
 2. Navigate to the project directory:
 
    ```bash
-   cd calculator
+   cd simple-calculator
    ```
 
 3. Install dependencies:
